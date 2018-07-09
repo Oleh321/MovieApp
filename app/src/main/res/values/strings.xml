@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="IMAGE_PATH">https://image.tmdb.org/t/p/w500</string>
+    <string name="API_KEY">d6ecef670f1600d765b2402d3e6ebf5f</string>
+
+    <string name="movies_list">Список фильмов</string>
+    <string name="input_movie_title">Введите название фильма</string>
+    <string name="pages_amount">Количество страниц: </string>
+    <string name="movie_amount">Количество фильмов: </string>
+    <string name="people_amount">Количество людей: </string>
+    <string name="not_found">Ничего не найдено</string>
+    <string name="input_person_name">Введите имя человека</string>
+    <string name="all_movies">Все фильмы</string>
+    <string name="saved_movies">Сохраненные фильмы</string>
+    <string name="movie_search">Поиск фильмов</string>
+    <string name="person_search">Поиск людей</string>
+
+
+</resources>

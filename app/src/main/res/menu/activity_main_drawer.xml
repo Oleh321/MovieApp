@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all_movies"
+            android:title="@string/all_movies" />
+        <item
+            android:id="@+id/nav_saved_movies"
+            android:title="@string/saved_movies" />
+        <item
+            android:id="@+id/nav_search_by_title"
+            android:title="@string/movie_search" />
+        <item
+            android:id="@+id/nav_search_by_director"
+            android:title="@string/person_search" />
+    </group>
+
+
+</menu>
