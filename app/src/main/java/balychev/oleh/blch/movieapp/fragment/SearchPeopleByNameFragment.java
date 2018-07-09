@@ -134,6 +134,7 @@ public class SearchPeopleByNameFragment extends Fragment {
             if("".equals(mNameEditText.getText().toString()))
                 return;
             mCurrentPage=1;
+            mDialog.setCanceledOnTouchOutside(false);
             mDialog.show();
             loadPeople();
         });
